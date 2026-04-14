@@ -19,3 +19,7 @@
 | ФИ | роль |
 | --- | --- |
 | Османов Асан | AI-инженер, Backend, Frontend |
+
+## Аналоги:
+
+[ссылка](https://github.com/redstone-engineer/ai-product-clear-comment/blob/main/analogs.md)
